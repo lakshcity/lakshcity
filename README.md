@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning more about integrating AI and machine learning concepts into educational tools and exploring advanced applications of Python in embedded systems.
 - 📫 You can reach me through my GitHub profile or feel free to connect on LinkedIn : - https://www.linkedin.com/in/laksh-gupta-6b020a244/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: You can often find me tinkering with single-board computers late into the night, fueled by chai!
+- ⚡ Fun fact: You can often find me tinkering with my gaming console late into the night, fueled by chai!
 
 <!---
 lakshcity/lakshcity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
